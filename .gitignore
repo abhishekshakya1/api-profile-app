@@ -1,0 +1,25 @@
+# Node modules (if using Node.js, otherwise ignore this line)
+node_modules/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Vercel deploys (if you're deploying to Vercel)
+.vercel/
+
+# Temporary build files (if you use build tools)
+build/
+dist/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment files (for secret keys, API tokens, etc.)
+.env
